@@ -57,7 +57,7 @@ header > p{
     bottom: 25px;
     right: 35px;
 }
-.card1{border-top: 5px solid hsl(34, 97%, 64%);}
+.card1{border-top: 5px solid hsl(180, 62%, 55%);}
 .card2{border-top: 5px  solid#ff4609;}
-.card3{border-top: 5px solid hsl(180, 62%, 55%);}
+.card3{border-top: 5px solid hsl(34, 97%, 64%);}
 .card4{border-top: 5px  solid hsl(212, 86%, 64%);}
